@@ -392,3 +392,16 @@ sm {
   font-weight: 600;
   margin: 15px 0;
 }
+
+
+
+
+@media screen and ( max-width: 1024px ) {
+  img.responsive { width: 20em; margin-left: 4em;}
+
+  }
+  @media screen and ( min-width: 1025px) {
+  img.responsive { width: 500px;}
+  }
+  img.responsive { height: auto; }
+
