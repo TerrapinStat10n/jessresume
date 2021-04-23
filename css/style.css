@@ -195,7 +195,7 @@ SECTION WRAPS
 }
 
 #givemeshadow {
-  text-shadow: 0px 5px black;
+  text-shadow: 0px 5px black; 
 }
 
 #intro i {
