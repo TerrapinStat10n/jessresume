@@ -150,13 +150,13 @@ SECTION WRAPS
 
 #headerwrap {
   /* background: url(../img/header-bg.jpg) no-repeat center top; */
-  background-color: black;
-  margin-top: 60px;
-  padding-top: 140px;
+  background-color: #800020;
+  margin-top: 20px;
+  padding-top: 60px;
   text-align: center;
   background-attachment: relative;
   background-position: center center;
-  min-height: 500px;
+  min-height: 150px;
   width: 100%;
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
@@ -171,31 +171,35 @@ SECTION WRAPS
 
 #headerwrap h1 {
   font-size: 100px;
-  color: #8BD8BD;
+  color: white;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 #headerwrap h3 {
   font-size: 25px;
-  color: #8BD8BD;
+  color: white;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 /* Intro Wrap */
 
 #intro {
-  background: #243665;
+  background: #333333;
   padding-top: 60px;
   padding-bottom: 60px;
-  color: #8BD8BD;
+  color: white;
 }
 
 #intro h5, p {
-  color: #8BD8BD;
+  color: white;
+}
+
+#givemeshadow {
+  text-shadow: 0px 5px black;
 }
 
 #intro i {
-  color: #8BD8BD;
+  color: white;
   font-size: 20px;
   padding-right: 8px;
   vertical-align: middle;
@@ -205,18 +209,18 @@ SECTION WRAPS
   background: black;
   padding-top: 60px;
   padding-bottom: 60px;
-  color: #8BD8BD;
+  color: white;
 }
 
 #skillswrap h5, p {
-  color: #8BD8BD;
+  color: white;
 }
 
 #valueswrap {
   background:#243665;
   padding-top: 60px;
   padding-bottom: 60px;
-  color: #8BD8BD;
+  color: white;
 }
 
 #footwrap {
@@ -282,7 +286,7 @@ SECTION WRAPS
 }
 
 .desc more {
-  color: #95a5a6;
+  color: white;
 }
 
 sm {
