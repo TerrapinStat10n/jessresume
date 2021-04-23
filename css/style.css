@@ -401,7 +401,7 @@ sm {
 
 
 @media screen and ( max-width: 1024px ) {
-  img.responsive { width: 20em; margin-left: 4em;}
+  img.responsive { width: 100%;}
 
   }
   @media screen and ( min-width: 1025px) {
